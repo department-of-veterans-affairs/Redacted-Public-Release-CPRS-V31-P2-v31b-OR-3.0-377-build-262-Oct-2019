@@ -1,2 +1,4 @@
 # Redacted-Public-Release-CPRS-V31-P2-v31b-OR-3.0-377-build-262-Oct-2019
 Repository containing the CIF submission for CPRS Version 31 Phase 2, v31b, OR*3.0*377, build 262 received Oct 2019.
+
+CPRS (Computerized Patient Record System) provides an integrated patient record system for clinicians, managers, QA (Quality Assurance) staff, and researchers. The primary goal of CPRS is to provide a fast and easy-to-use application that provides providers information needed in the clinical workflow process. CPRS 31 will implement Two Factor Authentication, Return to Clinic, System for Mammogram Results Tracking (SMART), Teratogenic Drugs (Tdrugs) , Primary Care Management Module rehost/reengineering (PCMMR), Monitor of Copy/Pase action along with Patient Safety /Remedy tickets and VistA patches Independent of GUI schedule. 
